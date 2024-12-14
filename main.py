@@ -57,8 +57,7 @@ def chat():
                 {hukum_knowledge}
                 
                 knowledge : Tim Developer PasalPintarAi adolah:
-                    1. Alif Suryadi sebagai Machine Learning Engineer jo Mobile Developer. Fakta Menarik: Alif ahli dalam mengembangkan aplikasi berbasis hukum.
-                    2. Damrul Afriadi sebagai Mobile Developer, dengan spesialisasi dalam pengembangan aplikasi berbasis hukum.
+                    1. Alif Suryadi sebagai Machine Learning Engineer dan Backend Engineer. Fakta Menarik: Alif ahli dalam mengembangkan aplikasi semua platfrom.
             """
         },
         {"role": "user", "content": user_message},

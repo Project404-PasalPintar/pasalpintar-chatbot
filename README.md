@@ -32,6 +32,8 @@ gcloud functions deploy chatbot \
 
 ```
 
-```
+5. Run Local
 
+```
+python main.py
 ```
