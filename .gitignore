@@ -1,1 +1,5 @@
 .env
+venv
+app.yaml
+.gcloudignore
+__pycache__
